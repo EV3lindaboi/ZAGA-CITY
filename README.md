@@ -1,2 +1,3 @@
 # ZAGA CITY
- The repository for all Zaga maps.
+![Logo](https://ibb.co/mzmjZSy)
+The repository for all Zaga maps.
