@@ -1,0 +1,71 @@
+===========================================================================
+Advanced engine needed  : Engine must be limit-removing and have MAPINFO or
+                          UMAPINFO support
+Primary purpose         : Deathmatch
+===========================================================================
+Title                   : Zaga for Doom 2
+Filename                : dm2_zaga.wad
+Release date            : 06/20/2022
+Author                  : VL2M STUDIO
+Email Address           : vl2mstudio@proton.me
+
+Description             : One of the maps of the initial Zaga release.
+		          Zaga is a Deathmatch map whose purpose is
+			  to be ported to more first person shooters.
+  			  More details on the Zaga website at:
+		          https://veganlies2me.github.io/ZAGA-CITY/
+
+Additional Credits to   : James Painshe for helping me with making the map,
+                          MiskatonicFox and Nikku4211 for playtesting,
+                          Kaapeli47 for helping me to playtest with the
+                          people mentioned
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01
+Single Player           : Player starts only
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : Designed for
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : Quite a time
+Editor(s) used          : Ultimate Doom Builder and SLADE
+May Not Run With        : Chocolate Doom (not vanilla compatible)
+Tested With             : PrBoom+, GZDoom, Zandronum, Odamex
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: https://github.com/veganlies2me/ZAGA-CITY
