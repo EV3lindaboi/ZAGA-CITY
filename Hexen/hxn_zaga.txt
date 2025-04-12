@@ -1,0 +1,69 @@
+===========================================================================
+Advanced engine needed  : limit-removing
+Primary purpose         : Deathmatch
+===========================================================================
+Title                   : Zaga for Hexen
+Filename                : hxn_zaga
+Release date            : 04/12/2025
+Author                  : VL2M STUDIO
+Email Address           : vl2mstudio@proton.me
+Other Files By Author   : Zaga for Ultimate Doom, Doom 2 and Heretic.
+
+Description             : A very late release of Zaga for Hexen.
+                          Zaga is a Deathmatch map whose purpose is to be
+                          ported to more first person shooters. More details
+                          on the Zaga website at:
+                          https://veganlies2me.github.io/ZAGA-CITY/
+
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Hexen
+Map #                   : 36
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : Designed for
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : Zaga for Doom 2
+Build Time              : I forgot. I made this a long time ago.
+Editor(s) used          : Ultimate Doom Builder and SLADE
+Known Bugs              : It has a singleplayer campaign. Teleporting the
+                          Heresiarch is buggy.
+May Not Run With        : Chocolate Doom (not vanilla compatible)
+Tested With             : DSDA Doom, GZDoom, Zandronum
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: https://github.com/veganlies2me/ZAGA-CITY
