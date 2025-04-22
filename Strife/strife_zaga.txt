@@ -1,0 +1,76 @@
+===========================================================================
+Advanced engine needed  : Limit removing
+Primary purpose         : Deathmatch
+===========================================================================
+Title                   : Zaga for Strife
+Filename                : strife_zaga
+Release date            : 04/22/2024
+Author                  : EV3
+Email Address           : vl2mstudio@proton.me
+Other Files By Author   : Zaga for Ultimate Doom, Doom 2, Heretic and Hexen.
+Misc. Author Info       : Formerly known as VL2M STUDIO.
+
+Description             : The Order has designed a battleground on a remote
+                          mountain lake, known as Zaga, in order to deploy
+                          people that attempted to overthrow the regime, and
+                          watch them fight each other for their own
+                          amusement.
+                          
+                          A very very late release of Zaga for Strife.
+                          Zaga is a Deathmatch map whose purpose is to be
+                          ported to more first person shooters. More details
+                          on the Zaga website at:
+                          https://ev3lindaboi.github.io/ZAGA-CITY/
+
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Strife
+Map #                   : 1
+Single Player           : Player starts only
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : Designed for
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : Zaga for Doom 2
+Build Time              : I don't remember. I spontaneously worked on this.
+Editor(s) used          : Ultimate Doom Builder, SLADE.
+May Not Run With        : Chocolate Strife
+Tested With             : GZDoom, Zandronum
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes. If you remix, transform, or build upon the
+material, you must distribute your contributions under the same license as
+the original.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: https://ev3lindaboi.github.io/ZAGA-CITY/
